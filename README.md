@@ -2,13 +2,13 @@
 <h3 align="center">CS Student & Software Dev in the Making | Python • Java • MySQL • Networking • Web</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif">
 
-- 🔭 I’m currently working on [Loan Management System](https://github.com/josephluwizhi58-rgb/Loan-Management-System)
+- 🔭 I’m currently working on [Loan-Management-System](https://github.com/josephluwizhi58-rgb/Loan-Management-System)
 
 - 🌱 I’m currently learning **Java, Python, Networking, MySQL, Web**
 
 - 📫 How to reach me **johnalubic@gmail.com**
 
-- ⚡ Fun fact **I think I'm funny**
+- ⚡ Fun fact **Perhaps I'm Nonchalant**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
