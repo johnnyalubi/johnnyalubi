@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm JOHN ALUBI</h1>
-<h3 align="center">CS Student & Software Dev in the making | Python • Java • SQL • Networking • Web</h3>
+<h3 align="center">CS Student & Software Dev in the Making | Python • Java • MySQL • Networking • Web</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif">
 
 - 🔭 I’m currently working on [Loan Management System](https://github.com/josephluwizhi58-rgb/Loan-Management-System)
